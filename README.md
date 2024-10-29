@@ -11,7 +11,7 @@ Aktivitetslogg för examination. *Scrum Master*
 - **Kommentarer:** Userstoryn är baserad på kundens kravspecifikation gällande övervakning och hantering av ordrar för administratör. Se bifogade bilder. ![Userstory 2024-10-25](https://github.com/user-attachments/assets/4f2d2095-20ad-42d9-9632-24460ad7b4d2) 
 ![Userstory 2024-10-25(2)](https://github.com/user-attachments/assets/1b57d295-e5a4-4c6e-8b8f-7b0bee2c7fbc)
 
-##Vecka 2
+## Vecka 2
 - **Datum** 2024-10-28
 - **Aktivitet:** Gjort ändringar på tidigare userstory (2024-10-24) och börjat på en ny userstory.
 - **Kommentarer**: Jag har gjort ändringar på nämnda userstoryn för att ta bort underkriterier som repeterades i onödan och kriterier som inloggning då det är en självklar förutsättning. Jag tog också bort repeterande testfall. Jag har även påbörjat en ny userstory som är baserad på kundens kravspecifikation gällande systemets responsiva design för mobila enheter. Se bifogade bilder. ![Skärmbild 2024-10-29 130457](https://github.com/user-attachments/assets/0cde8e0d-fc41-400b-bdf8-369a70d3f5b6)![Skärmbild 2024-10-29 132210](https://github.com/user-attachments/assets/415f5a20-e6af-4873-a961-4de1b98b23cc)
