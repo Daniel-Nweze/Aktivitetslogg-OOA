@@ -33,4 +33,12 @@ Aktivitetslogg för examination. *Scrum Master*
 ![Skärmbild 2024-10-30 115703](https://github.com/user-attachments/assets/af06550c-3963-4754-8fef-fef294df6158)
 ![Skärmbild 2024-10-30 115546](https://github.com/user-attachments/assets/2eb12702-446e-403f-90bd-c6d430600ffd)
 ![Skärmbild 2024-10-30 115515](https://github.com/user-attachments/assets/bb494be3-75a7-4ec4-bff1-fddc35413fd4)
+***Här har jag senare under dagen lagt till ett acceptans- och underkriterie och ett testfall gällande misslyckad betalning. Jag har även gjort ett aktivitetsdiagram. Se nedan.*** 
+![Skärmbild 2024-10-30 123954](https://github.com/user-attachments/assets/fff8af60-b087-470a-9581-a07cb8514e7b)
+![Skärmbild 2024-10-30 161430](https://github.com/user-attachments/assets/a063bce5-2f2a-4e37-a03a-fc10ff22252e)
+![Skärmbild 2024-10-30 161353](https://github.com/user-attachments/assets/3b352106-370f-49de-ab04-838d418d880c)
+![Skärmbild 2024-10-30 161316](https://github.com/user-attachments/assets/b2646e0b-faec-4a03-a47f-604cd562ac9a)
+
+
+
 
