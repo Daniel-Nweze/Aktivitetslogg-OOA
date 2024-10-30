@@ -21,3 +21,15 @@ Aktivitetslogg för examination. *Scrum Master*
 - **Aktivitet**: Började på en ny userstory i projektets första sprint.
 - **Kommentarer**: Jag har skapat en userstory baserad på kundens kravspecifikation gällande betalningsmetod för användare av systemet. Se bifogade bilder. ![Skärmbild 2024-10-29 173718](https://github.com/user-attachments/assets/1ef7de14-96ff-4382-96f1-96942b3c6c4a)![Skärmbild 2024-10-29 173752](https://github.com/user-attachments/assets/6d1ea82b-38a5-4bd7-8826-12ddcebac361)
 
+- ## Datum**: 2024-10-30
+- **Aktivitet**: Fortsatte på gårdagens dokumenterade userstory (se ovan).
+- **Kommentarer**: I dag har jag lagt till passande underkriterier för att uppfylla acceptanskriterierna gällande betalningsmetoderna. Jag har även lagt in testfall för vardera betalningsmetod med simpla testbeskrivningar. Se bifogade bilder. 
+![Skärmbild 2024-10-30 115934](https://github.com/user-attachments/assets/364ec280-2329-4d4a-a0f2-4fd8e70e09f4)
+![Skärmbild 2024-10-30 115913](https://github.com/user-attachments/assets/c90d44f6-f6d1-4b0f-a7bc-daca8b632101)
+![Skärmbild 2024-10-30 115857](https://github.com/user-attachments/assets/eee57b89-43d0-4cf0-ab93-b2094dff972b)
+![Skärmbild 2024-10-30 115741](https://github.com/user-attachments/assets/b1665323-dccf-4a87-9fec-aa6de97ff004)
+![Skärmbild 2024-10-30 115727](https://github.com/user-attachments/assets/eae95e1c-37e3-4c69-a3b3-f81ac4bbba7c)
+![Skärmbild 2024-10-30 115703](https://github.com/user-attachments/assets/af06550c-3963-4754-8fef-fef294df6158)
+![Skärmbild 2024-10-30 115546](https://github.com/user-attachments/assets/2eb12702-446e-403f-90bd-c6d430600ffd)
+![Skärmbild 2024-10-30 115515](https://github.com/user-attachments/assets/bb494be3-75a7-4ec4-bff1-fddc35413fd4)
+
