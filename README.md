@@ -9,7 +9,8 @@ Aktivitetslogg för examination. *Scrum Master*
 - ## Datum**: 2024-10-25
 - **Aktivitet:** Började på en userstory i gruppprojektets första sprint i Jira.
 - **Kommentarer:** Userstoryn är baserad på kundens kravspecifikation gällande övervakning och hantering av ordrar för administratör. Se bifogade bilder. ![Userstory 2024-10-25](https://github.com/user-attachments/assets/4f2d2095-20ad-42d9-9632-24460ad7b4d2) 
-![Userstory 2024-10-25(2)](https://github.com/user-attachments/assets/1b57d295-e5a4-4c6e-8b8f-7b0bee2c7fbc)
+![Userstory 2024-10-25(2)](https://github.com/user-attachments/assets/1b57d295-e5a4-4c6e-8b8f-7b0bee2c7fbc) 
+![Skärmbild_25-10-2024_171919_mermaid-js github io](https://github.com/user-attachments/assets/de8718f0-e71f-4b59-a215-1525731a89c9)
 
 ## Vecka 2
 - ## Datum** 2024-10-28
