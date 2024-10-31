@@ -41,11 +41,11 @@ Aktivitetslogg för examination. *Scrum Master*
 
 - ## Datum**: 2024-10-31
 - **Aktivitet**: Skapade en ny userstory i projektets första sprint.
-- **Kommentarer**: Jag har påbörjat en ny userstory baserad på kundens kravspecifikation gällande systemets *webbläsarkompatibilitet*. Se bifogade bilder: 
-![Skärmbild 2024-10-31 191724](https://github.com/user-attachments/assets/32a110df-58d3-46f7-ac0d-67f94269f6bc)
+- **Kommentarer**: Jag har påbörjat en ny userstory baserad på kundens kravspecifikation gällande systemets *webbläsarkompatibilitet*. Se bifogade bilder:
 ![Skärmbild 2024-10-31 191709](https://github.com/user-attachments/assets/49cebcbc-2450-49d9-9256-1cd45f93c5e2)
-![Skärmbild 2024-10-31 191757](https://github.com/user-attachments/assets/79d7a1fa-1dc1-4725-9d09-9ca6d6ef01c0)
+![Skärmbild 2024-10-31 191724](https://github.com/user-attachments/assets/32a110df-58d3-46f7-ac0d-67f94269f6bc)
 ![Skärmbild 2024-10-31 191742](https://github.com/user-attachments/assets/7d65f81e-0bbb-440f-bc29-657492eabd04)
+![Skärmbild 2024-10-31 191757](https://github.com/user-attachments/assets/79d7a1fa-1dc1-4725-9d09-9ca6d6ef01c0)
 
 
 
