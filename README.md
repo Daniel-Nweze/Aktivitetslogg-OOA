@@ -47,5 +47,11 @@ Aktivitetslogg för examination. *Scrum Master*
 ![Skärmbild 2024-10-31 191742](https://github.com/user-attachments/assets/7d65f81e-0bbb-440f-bc29-657492eabd04)
 ![Skärmbild 2024-10-31 191757](https://github.com/user-attachments/assets/79d7a1fa-1dc1-4725-9d09-9ca6d6ef01c0)
 
+- ## Datum**: 2024-11-1
+- **Aktivitet**: Testfallsbeskrivning.
+- **Kommentarer**: I dag har jag skrivit färdigt en tidigare påbörjad testfallsbeskrivning i min userstory gällande *övervakning och hantering av ordrar för administratör*. Se bifogade bilder:
+  ![Skärmbild 2024-11-01 145445](https://github.com/user-attachments/assets/0fb850a6-968e-440c-b3bf-82fff28b0fa9)
+
+
 
 
