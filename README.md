@@ -47,11 +47,23 @@ Aktivitetslogg för examination. *Scrum Master*
 ![Skärmbild 2024-10-31 191742](https://github.com/user-attachments/assets/7d65f81e-0bbb-440f-bc29-657492eabd04)
 ![Skärmbild 2024-10-31 191757](https://github.com/user-attachments/assets/79d7a1fa-1dc1-4725-9d09-9ca6d6ef01c0)
 
-- ## Datum**: 2024-11-1
+- ## Datum**: 2024-11-01
 - **Aktivitet**: Testfallsbeskrivning.
 - **Kommentarer**: I dag har jag skrivit färdigt en tidigare påbörjad testfallsbeskrivning i min userstory gällande *övervakning och hantering av ordrar för administratör*. Se bifogade bilder:
   ![Skärmbild 2024-11-01 145445](https://github.com/user-attachments/assets/0fb850a6-968e-440c-b3bf-82fff28b0fa9)
-
-
-
+  
+- ## Datum**: 2024-11-04
+- **Aktivitet**: Userstory uppdateringar och ändringar.
+- **Kommentarer**: Jag har skapat nya userstorys och ändrat på befintliga för att separera ansvaret för vardera userstory så att de tar hand om en sak var. Se bifogade bilder:   
+![Skärmbild 2024-11-03 142944](https://github.com/user-attachments/assets/dc8c87c5-cbd6-44da-9ffb-9407cc6916c9)
+![Skärmbild 2024-11-03 142926](https://github.com/user-attachments/assets/da04fdb0-a5e5-4352-9e72-907d0629e18b)
+![Skärmbild 2024-11-03 142911](https://github.com/user-attachments/assets/e95f4c0c-e7c0-48b8-b088-3566b22a7b58)
+![Skärmbild 2024-11-03 142832](https://github.com/user-attachments/assets/6a013704-ca1b-4769-a24a-a913d80bbadb)
+![Skärmbild 2024-11-03 142802](https://github.com/user-attachments/assets/31231f0e-a834-4bbe-87fe-96c1ec133d3e)
+![Skärmbild 2024-11-03 142733](https://github.com/user-attachments/assets/3b56d360-59a6-4f02-b1d7-bc21b5cc00aa)
+![Skärmbild 2024-11-03 142716](https://github.com/user-attachments/assets/2fc45ec1-b92d-47f7-bbc3-8aaf4238847c)
+![Skärmbild 2024-11-03 143241](https://github.com/user-attachments/assets/3ac972e5-70ac-44db-a5e8-b4e59b729d06)
+![Skärmbild 2024-11-03 143045](https://github.com/user-attachments/assets/85964c30-4d4d-413c-93a1-2296f9892803)
+![Skärmbild 2024-11-03 143022](https://github.com/user-attachments/assets/928e7ddd-8d2b-4158-b55c-9d6426ee7b1e)
+![Skärmbild 2024-11-03 142956](https://github.com/user-attachments/assets/7a9104c2-5313-4b7a-a741-fe01ea3fbf8b)
 
