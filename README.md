@@ -69,6 +69,5 @@ Aktivitetslogg för examination. *Scrum Master*
 
 - ## Datum**: 2024-11-05
 - **Aktivitet**: Skapat 2 sekvensdiagram.
-- **Kommentarer**: I dag har jag skapat 2 sekvensdiagram. Det första gäller *uppdatering av orderstatus* och det andra *webbläsarkompatibilitet för Safari* Se bifogade bilder: 
-![Skärmbild 2024-11-03 160601](https://github.com/user-attachments/assets/fa00a84e-2fb5-4211-a5ef-c29bf710d703)
-
+- **Kommentarer**: I dag har jag skapat 2 sekvensdiagram. Det första gäller *uppdatering av orderstatus* och det andra *webbläsarkompatibilitet för Safari* Se bifogade bilder:
+   ![Skärmbild 2024-11-03 160601](https://github.com/user-attachments/assets/8e17edcf-d495-4450-9f11-bc9303ba9af6)
