@@ -70,10 +70,10 @@ Aktivitetslogg för examination. *Scrum Master*
 - ## Datum**: 2024-11-05
 - **Aktivitet**: Skapat 2 sekvensdiagram.
 - **Kommentarer**: I dag har jag skapat 2 sekvensdiagram. Det första diagrammet handlar om att en administratör kan  *uppdatera en orderstatus* och det andra att en administratör kan *se alla detaljer för en order* Se bifogade bilder:
- ![Skärmbild 2024-11-03 210345](https://github.com/user-attachments/assets/f49c93c6-6579-48d5-b74f-1a15221924d5)
+ ![Skärmbild 2024-11-03 213756](https://github.com/user-attachments/assets/0e3cd675-7ade-4ad6-b9a1-5ed6e215a16a)
  ![Skärmbild 2024-11-03 160601](https://github.com/user-attachments/assets/8e17edcf-d495-4450-9f11-bc9303ba9af6)
 
-  - ## Datum**: 2024-11-06
+- ## Datum**: 2024-11-06
 - **Aktivitet**: Skapat en userstory och gjort ändringar i en befintlig userstory. Skrivit en testfallsbeskrivning och gjort ett aktivitetsdiagram.
 - **Kommentarer**: Jag har gjort ändringar i en befintlig userstory gällande *orderöversikt*. Jag tog bort kriterierna för att se detaljer för en specifik order och la den i en ny userstory. Jag skapade också ett testfall för den nya userstoryn och gjorde ett aktivitetsdiagram. Se bifogade bilder:
 ![Aktivitetsdiagram orderdetaljer](https://github.com/user-attachments/assets/0e163e27-1006-4064-8216-cd7af3ddac15)
