@@ -82,3 +82,12 @@ Aktivitetslogg för examination. *Scrum Master*
 ![Skärmbild 2024-11-03 211318](https://github.com/user-attachments/assets/c6e56817-27a2-4adb-bdd3-d07d5aab751e)
 ![Skärmbild 2024-11-03 211308](https://github.com/user-attachments/assets/3ebeaddc-6fe9-4cb4-9da4-aab3e285d174)
 ![Skärmbild 2024-11-03 211213](https://github.com/user-attachments/assets/1d5298d8-2035-4283-93a8-ee6bb0c2c61d)
+
+- ## Datum**: 2024-11-07
+- **Aktivitet**: Skapat ett TDD-baserat enhetstest.
+- **Kommentarer**: I dag har jag skrivit ett enhetstest för testfallet i userstoryn gällande möjligheten för administratörer att se *orderdetaljer* för en specifik order. Se bifogade bilder:
+![Skärmbild 2024-11-04 150437](https://github.com/user-attachments/assets/33677c37-4a69-4494-bd46-524cf614db19)
+![Skärmbild 2024-11-04 150422](https://github.com/user-attachments/assets/e62c9eb6-ba96-4ede-acd1-0c5d319c55d4)
+![Skärmbild 2024-11-04 150732](https://github.com/user-attachments/assets/73fed2af-df51-436c-b728-8f83c1a1da74)
+![Skärmbild 2024-11-04 150534](https://github.com/user-attachments/assets/3ebf7445-ba7d-4918-a327-5072254cb8f5)
+![Skärmbild 2024-11-04 150521](https://github.com/user-attachments/assets/5957a517-a9f3-4d8e-8dec-acc026a50760)
