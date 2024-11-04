@@ -85,7 +85,7 @@ Aktivitetslogg för examination. *Scrum Master*
 
 - ## Datum**: 2024-11-07
 - **Aktivitet**: Skapat ett TDD-baserat enhetstest.
-- **Kommentarer**: I dag har jag skrivit ett enhetstest för testfallet i userstoryn gällande möjligheten för administratörer att se *orderdetaljer* för en specifik order. Se bifogade bilder:
+- **Kommentarer**: I dag har jag skrivit ett enhetstest för testfallet i userstoryn gällande möjligheten för administratörer att se *orderdetaljer* för en specifik order. Testet säkerställer att rätt order returneras. Se bifogade bilder:
 ![Skärmbild 2024-11-04 150437](https://github.com/user-attachments/assets/33677c37-4a69-4494-bd46-524cf614db19)
 ![Skärmbild 2024-11-04 150422](https://github.com/user-attachments/assets/e62c9eb6-ba96-4ede-acd1-0c5d319c55d4)
 ![Skärmbild 2024-11-04 150732](https://github.com/user-attachments/assets/73fed2af-df51-436c-b728-8f83c1a1da74)
