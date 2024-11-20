@@ -93,3 +93,11 @@ Aktivitetslogg för examination. *Scrum Master*
 ![Skärmbild 2024-11-04 150521](https://github.com/user-attachments/assets/5957a517-a9f3-4d8e-8dec-acc026a50760)
 ![Skärmbild 2024-11-04 153817](https://github.com/user-attachments/assets/7c6d4292-fe35-4a2a-a110-8ca24789de4c)
 
+- ## Datum**: 2024-11-08
+- **Aktivitet**: Skapat 5 tester för mina userstories.
+- **Kommentarer**: Jag har skapat ett test för userstories *Användare kan betala med PayPal*, *Admin kan övervaka alla ordrar*, *Admin kan uppdatera orderstatus*, *Admin kan se orderdetaljer* och *Admin kan uppdatera leveransinformation för ordrar*. Jag har tagit hjälp av Chatgpt och inspelade lektioner för att förstå mig på Factory Pattern, SOLID, TDD och DRY och sedan applicerat dem när jag skrivit mina tester. Se bifogade bilder: 
+![Skärmbild 2024-11-20 104222](https://github.com/user-attachments/assets/9ccb0951-5ef2-46c7-8b9b-3cc7fe761459)
+![Skärmbild 2024-11-20 104445](https://github.com/user-attachments/assets/ac63ba66-51e3-413a-8a16-ada30e7c57bd)
+![Skärmbild 2024-11-20 104301](https://github.com/user-attachments/assets/19ec6ce5-5127-4994-a2f9-86ff34bebef5)
+![Skärmbild 2024-11-20 104251](https://github.com/user-attachments/assets/a97137a8-b49d-4420-b2fc-0d55c3b6db8e)
+![Skärmbild 2024-11-20 105422](https://github.com/user-attachments/assets/2d650e3f-53ae-4b84-8ce6-4ad0e707e312)
