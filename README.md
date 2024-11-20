@@ -101,3 +101,4 @@ Aktivitetslogg för examination. *Scrum Master*
 ![Skärmbild 2024-11-20 104301](https://github.com/user-attachments/assets/19ec6ce5-5127-4994-a2f9-86ff34bebef5)
 ![Skärmbild 2024-11-20 104251](https://github.com/user-attachments/assets/a97137a8-b49d-4420-b2fc-0d55c3b6db8e)
 ![Skärmbild 2024-11-20 105422](https://github.com/user-attachments/assets/2d650e3f-53ae-4b84-8ce6-4ad0e707e312)
+![Skärmbild 2024-11-20 105928](https://github.com/user-attachments/assets/a655844f-77a4-4559-b819-42056ba2f5fc)
